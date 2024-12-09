@@ -23,7 +23,7 @@ num1 = int(input('Please choose your first number: '))
 sign = input('What do you want to do? +, -, /, or *: ')
 num2 = int(input('Please choose your second number: '))
 """.format(min_num, max_num), file=python_file)
-#hello doctor
+
 # For all the numbers and all the
 for sign in signs:
     for num1 in nums:
